@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cihan</h1>
 - 🌱 I’m currently learning ReactJS,NodeJS
 
-- 📫 How to reach me **cihaom@gmail.com**
+- 📫 How to reach me **cihanalicii7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
