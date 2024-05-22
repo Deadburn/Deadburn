@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cihan</h1>
 - 🖥️ I've been coding in Javascript,React and Nodejs primarily for over 4 years
+
 - 🌱 I’m currently learning Golang
 
 - 📫 How to reach me **cihanalicii7@gmail.com**
